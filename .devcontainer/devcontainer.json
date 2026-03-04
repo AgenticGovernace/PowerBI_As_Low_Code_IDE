@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"ghcr.io/devcontainers-extra/features/bandit:2": {"ghcr.io/jungaretti/features/make:1": {"ghcr.io/wxw-matt/devcontainer-features/apt:0": {"ghcr.io/codeman99/features/circleci-cli:1": {"ghcr.io/devcontainers/features/conda:1": {"ghcr.io/jsburckhardt/devcontainer-features/ruff:1": {}}}}}}}
+}
